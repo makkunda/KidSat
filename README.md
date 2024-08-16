@@ -1,5 +1,9 @@
 # KidSat: satellite imagery to map childhood poverty dataset and benchmark
 
+![Figure 1](https://i.imgur.com/xLbiFwq.png)
+
+
+
 ## Introduction
 
 This is a repository for the work **KidSat: satellite imagery to map childhood poverty dataset and benchmark**.
